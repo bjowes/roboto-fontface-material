@@ -35,6 +35,7 @@ Material will automatically use your local versions.
 
 ## License notes
 The MIT license applies to this compilation of the Roboto fonts for Angular Material.
+
 The fonts themselves are created by Christian Robertson and are released under the Apache license.
-(Google's font page)[https://fonts.google.com/specimen/Roboto]
-(Roboto font license)[http://www.apache.org/licenses/LICENSE-2.0]
+[Google's font page](https://fonts.google.com/specimen/Roboto)
+[Roboto font license](http://www.apache.org/licenses/LICENSE-2.0)
