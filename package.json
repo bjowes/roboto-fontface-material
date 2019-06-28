@@ -1,6 +1,6 @@
 {
   "name": "roboto-fontface-material",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Convenience package with Roboto fontfaces used by Angular Material",
   "main": "index.js",
   "scripts": {
